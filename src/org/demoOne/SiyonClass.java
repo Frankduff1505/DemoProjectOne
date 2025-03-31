@@ -5,6 +5,7 @@ public class SiyonClass {
 	public static void main(String[] args) {
 
 		System.out.println("Siyon");
+		System.out.println("Frank");
 
 	}
 
